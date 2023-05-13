@@ -1,1 +1,1 @@
-#This analysis looks at bike share trips, including details such as trip duration, start time, end time, start station, end station, and user information. It helps analyze patterns in bike usage, popular routes, and user behavior.
+This analysis looks at bike share trips, including details such as trip duration, start time, end time, start station, end station, and user information. It helps analyze patterns in bike usage, popular routes, and user behavior.
